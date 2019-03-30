@@ -1,7 +1,7 @@
-publishMavenStyle := false
+//publishMavenStyle := false
 
-bintrayOrganization := Some("sbt")
+//bintrayOrganization := Some("sbt")
 
-bintrayRepository := "sbt-plugin-releases"
+//bintrayRepository := "sbt-plugin-releases"
 
-bintrayReleaseOnPublish in ThisBuild := false
+//bintrayReleaseOnPublish in ThisBuild := false
